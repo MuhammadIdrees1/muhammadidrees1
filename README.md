@@ -36,7 +36,7 @@
 
 <p align="right"><img width="410" src="https://github-readme-stats.vercel.app/api?username=muhammadidrees1&show_icons=true&locale=en" alt="muhammadidrees1" /></p>
 </p>
-<p><img align="center" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadidrees1&" alt="muhammadidrees1" /></p>
+<p><img align="centre" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadidrees1&" alt="muhammadidrees1" /></p>
 
 
 <hr/>
