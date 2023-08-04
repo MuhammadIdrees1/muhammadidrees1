@@ -1,7 +1,7 @@
-<img src="https://www.cttnservice.com/advertisement/web-design.gif"/>
+<img height="200" width="100%" src="https://www.cttnservice.com/advertisement/web-design.gif"/>
 <h1 align="center">Hi 👋, I'm Muhammad Idrees</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3> 
-<p align="center" > <img src="https://komarev.com/ghpvc/?username=muhammadidrees1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadidrees1" /> </p>
+<p align="center" > <img  src="https://komarev.com/ghpvc/?username=muhammadidrees1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadidrees1" /> </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadidrees1" alt="muhammadidrees1" /></a> </p>
@@ -34,10 +34,10 @@
 
 
 
-<p align="left">&nbsp;<img align="left" width="410"   src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadidrees1&show_icons=true&locale=en&layout=compact" alt="muhammadidrees1" /></p>
+<p align="left">&nbsp;<img align="left" width="400"   src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadidrees1&show_icons=true&locale=en&layout=compact" alt="muhammadidrees1" /></p>
 
-<p align="right"><img align="right width="410" src="https://github-readme-stats.vercel.app/api?username=muhammadidrees1&show_icons=true&locale=en" alt="muhammadidrees1" /></p>
+<p align="right"><img align="right width="400" src="https://github-readme-stats.vercel.app/api?username=muhammadidrees1&show_icons=true&locale=en" alt="muhammadidrees1" /></p>
 
-<p align="center"><img align="center" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadidrees1&" alt="muhammadidrees1" /></p>
+<p align="center"><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadidrees1&" alt="muhammadidrees1" /></p>
 
 <hr/>
