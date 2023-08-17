@@ -4,7 +4,7 @@
 <p align="center" > <img  src="https://komarev.com/ghpvc/?username=muhammadidrees1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadidrees1" /> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadidrees1" alt="muhammadidrees1" /></a> </p>
+
 <hr/>
 <p margin="10">
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" align="right" width="450" margin-bottom="10" alt="coding"/>
