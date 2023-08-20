@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **idreesrehman30@gmail.com**
+- 📫 How to reach me **[email](idreesrehman30@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
