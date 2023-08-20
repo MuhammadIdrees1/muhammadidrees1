@@ -1,4 +1,4 @@
-<img height="200" width="100%" src="https://www.cttnservice.com/advertisement/web-design.gif"/>
+
 <h1 align="center">Hi 👋, I'm Muhammad Idrees</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3> 
 <p align="center" > <img  src="https://komarev.com/ghpvc/?username=muhammadidrees1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadidrees1" /> </p>
