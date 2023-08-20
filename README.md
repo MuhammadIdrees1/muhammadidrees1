@@ -33,9 +33,9 @@
 
 
 
-<div style="display:flex;">
-&nbsp;<img align="left" width="350"   src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadidrees1&show_icons=true&locale=en&layout=compact" alt="muhammadidrees1" />
+<div style="display:flex;" align="center">
+&nbsp;<img  width="350"   src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadidrees1&show_icons=true&locale=en&layout=compact" alt="muhammadidrees1" />
 
-<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadidrees1&" alt="muhammadidrees1" />
+<img  width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadidrees1&" alt="muhammadidrees1" />
 </div>
 <hr/>
