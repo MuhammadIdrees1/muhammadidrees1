@@ -1,41 +1,38 @@
+<h1 align="center">Hi, I'm Muhammad Idrees 👋</h1>
+<h3 align="center">Frontend Developer | React | Next.js | Tailwind CSS | TypeScript</h3>
 
-<h1 align="center">Hi 👋, I'm Muhammad Idrees</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3> 
-<img  src="https://komarev.com/ghpvc/?username=muhammadidrees1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadidrees1" />
-
-
-
-<hr/>
-<p margin="10">
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" align="right" width="450" margin-bottom="10" alt="coding"/>
+<p align="center">
+  <!-- <a href="https://www.fiverr.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-brightgreen?style=for-the-badge&logo=fiverr" alt="Fiverr" />
+  </a> -->
+  <!-- <a href="https://www.upwork.com/freelancers/~yourprofilelink" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Available-green?style=for-the-badge&logo=upwork" alt="Upwork" />
+  </a> -->
+  <a href="mailto:idreesrehman30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
-- 🔭 I’m currently working on **MERN Social App**
+---
 
-- 🌱 I’m currently learning **React Native**
+### 🙋‍♂️ About Me
 
-- 💬 Ask me about **MERN Stack**
+I'm a passionate frontend developer who builds sleek, high-performance web interfaces using modern technologies like **React**, **Next.js**, and **Tailwind CSS**. I specialize in creating responsive landing pages, intuitive dashboards, and seamless Figma-to-code transformations. I'm always eager to take on new challenges and deliver pixel-perfect user experiences.
 
-- 📫 How to reach me **[email](mailto:idreesrehman30@gmail.com)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
-<a href="https://www.linkedin.com/in/muhammad-idrees-67709b24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadidrees" height="30" width="40" /></a>
+### 💻 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,bootstrap,vite,git,github,postman,figma,firebase,express,nodejs,mongodb" alt="Tech Stack" />
 </p>
-<br/>
 
-<h3 align="center">~:Languages and Tools:~</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<hr/>
+---
 
-
-
+### 📈 GitHub Stats
 
 <div style="display:flex;" align="center">
-&nbsp;<img  width="350"   src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadidrees1&show_icons=true&locale=en&layout=compact" alt="muhammadidrees1" />
-
-<img  width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadidrees1&" alt="muhammadidrees1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadIdrees1&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="380" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIdrees1&theme=radical" alt="GitHub Streak" width="450"  />
 </div>
-<hr/>
