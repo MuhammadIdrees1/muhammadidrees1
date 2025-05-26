@@ -25,7 +25,7 @@ I'm a passionate frontend developer who builds sleek, high-performance web inter
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,bootstrap,vite,git,github,postman,figma,firebase,express,nodejs,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,bootstrap,vite,git,github,postman,firebase,express,nodejs,mongodb" alt="Tech Stack" />
 </p>
 
 ---
